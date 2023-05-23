@@ -1,0 +1,11 @@
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\bin\Debug\Gerador de senhas.exe.config
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\bin\Debug\Gerador de senhas.exe
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\bin\Debug\Gerador de senhas.pdb
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.csproj.AssemblyReference.cache
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador_de_senhas.Properties.Resources.resources
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.csproj.GenerateResource.cache
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.csproj.CoreCompileInputs.cache
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.exe
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.pdb
+C:\Users\Família\Desktop\Aprendendo C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador_de_senhas.Form1.resources
